@@ -1,0 +1,6 @@
+age = input("Please enter your age:")
+years = input("Please enter a number of years:")
+
+result = age + years
+
+print("In " + years + " years you will be " + result + " years old.")
